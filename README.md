@@ -2,7 +2,7 @@
 this is a demo of custom library without external deps to usage of pre-rendered ttf/opentype on screen/printer =)
 
 
-
+``
 Magic        0xA3 (program)
 Flags        0x06 (Thumb, 4KB Aligned)
 Version      1.0
@@ -16,3 +16,4 @@ Stack Size   2097152 (0x200000)
 Entry        0x70420089 (Thumb code)
 Library      .SYS.LIB
 Library      N:/ELOG.LIB
+``
